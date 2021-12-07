@@ -13,4 +13,4 @@
 <h2>Mais sobre mim</h2>
 <p>- Atualmente estou estudando a linguagem C</p>
 <p>- Sou facinado pela cultura digital</p>
-  <p>- A parte mais legal da programação é quando o programa roda do jeito que você q<strong></strong> </p>
+<p>- A parte mais legal da programação é quando o programa roda do jeito que você quer</p>
