@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**luizmottam/luizmottam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Informaçoes Públicas</h2>
+<p>Meu nome é Luiz e tenho 17 anos. Atualmente estou morando em Brasília e procuro obter experiencia profissional na área de análise e desenvolvimento de dados.</p>
+<p>Sei o básico de JS,CSS,HTML e Python. Estou procurando adiquirir certificados nessas linguagens.</p>
 
-Here are some ideas to get you started:
+<h2>Informações detalhadas</h2>
+<p><strong>Nome:</strong> Luiz de Aquino Motta Mendes</p>
+<p><strong>Idade:</strong> 17</p>
+<p><strong>Universidade:</strong> Não tenho. Pretendo ingressar na universidade no início de 2022 no curso de <strong>Ciências da Computação</strong>.</p>
+<p><strong>Contato:</strong> luizdamm@gmail.com</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Mais sobre mim</h2>
+<p>- Atualmente estou estudando a linguagem C</p>
+<p>- Sou facinado pela cultura digital</p>
+  <p>- A parte mais legal da programação é quando o programa roda do jeito que você q<strong></strong> </p>
