@@ -1,3 +1,6 @@
 ## Olá Mundo
 
-- *Name*: Luiz Motta
+- Nome: Luiz Motta
+- Idade: 19
+- Curso: Ciências da Computação
+
