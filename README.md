@@ -1,6 +1,6 @@
 # 👋 Luiz de Aquino Motta Mendes
 
-Desenvolvedor em transição. Suporte de TI por ofício, programador por vocação. Estou migrando de vez para o **desenvolvimento de soluções para o mercado financeiro**, com foco em **otimização de carteiras, análise de ativos e automação de processos**.
+Desenvolvedor em transição. Suporte de TI por ofício, programador por vocação. Estou com o foco de migrar para **automação de processos** e **inteligência artificial**.
 
 ## 🎯 Objetivo
 Atuar como **desenvolvedor backend** voltado para o mercado financeiro, aplicando algoritmos, análise quantitativa e boas práticas de engenharia de software em soluções reais.
