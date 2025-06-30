@@ -48,7 +48,7 @@ Instituição: Instituto de Educação Superior de Brasília - IESB
 
 ## 🤝 Contato
 
-- 📧 Email: [luizdamm@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/luizmottam]  
-- 💻 GitHub: [github.com/luizmottam]
+- 📧 Email: luizdamm@gmail.com
+- 💼 LinkedIn: linkedin.com/in/luizmottam
+- 💻 GitHub: github.com/luizmottam
 ---
